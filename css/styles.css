@@ -59,3 +59,11 @@ body {
   left: 0;
   min-height: 300px;
 }
+
+.btn-warning {
+  color: #FFFFFF;
+}
+
+.sectionButtons {
+  display: none;
+}
